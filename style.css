@@ -1,0 +1,25 @@
+section {
+    padding: 40px;
+
+}
+
+.penny {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+
+.light-bulb {
+    padding: 10px 50px;
+    border: 2px solid black;
+    width: 50px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background-color: grey;
+}
+
+.yellow-mode {
+    background-color: yellow;
+}
